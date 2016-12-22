@@ -1,0 +1,94 @@
+body {
+  background-color: rgb(244,248,249);
+  font: helvetica;
+  margin: 10px;
+  padding: 0;
+  font-family: helvetica;
+  line-height: 1.0em;
+}
+.tweetbox {
+  position: relative;
+  left: 85px;
+  top: 5px;
+  width: 65%;
+  background: rgb(255, 255, 255);
+  border-radius: 10px;
+  border: 2px solid rgb(225, 232, 237);
+  padding: 30px;
+  margin: auto;
+  float: left;
+}
+button {
+  color: rgb(85, 172, 238);
+  background: rgb(255, 255, 255);
+  border: 2px solid rgb(85, 172, 238);
+  border-radius: 6px;
+  float: right;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px 3px 10px 3px;
+  margin: 2px 2px;
+  width: 20%;
+}
+#jack {
+  float: left;
+  padding: 10px;
+}
+#walkingbloke {
+  float: left;
+  padding: 12px 5px 0px 15px;
+}
+#twitbird {
+  width: 22px;
+  height: 22px;
+  padding-right: 8px;
+  vertical-align: baseline;
+}
+.user_name {
+  color: rgb(0, 0 ,0);
+  margin: 0px;
+  font-size: 32px;
+  padding: 8px 110px 0px 0px;
+  font-weight: bold;
+}
+.user_account {
+  color: rgb(104, 109, 129);
+  font-size: 25px;
+  margin: 10px 95px 5px;
+  padding: 10px;
+}
+.text {
+  color: rgb(0, 0, 0);
+  font-size: 28px;
+  padding: 20px 10px 0px;
+  clear: both;
+}
+.date {
+  color: rgb(101, 116, 127);
+  font-size: 22px;
+  padding: 0px 10px 0px 10px;
+}
+#reply  {
+  float: left;
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+#retweet {
+  float: left;
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 15px;
+}
+span {
+  color: rgb(105, 120, 130);
+  float: left;
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 5px;
+}
+#heart {
+  float: left;
+  padding-left: 45px;
+  padding-right: 10px;
+}
